@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    username: root
+    password: ad9908
+    url: jdbc:mysql:///notebook?serverTimezone=GMT
+    driver-class-name: com.mysql.cj.jdbc.Driver
